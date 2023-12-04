@@ -1,0 +1,172 @@
+@charset "UTF-8";
+body{
+    justify-content: space-between;
+    margin: auto 0;
+    justify-content:center ;
+    align-items: center;
+}
+
+h1{
+    color: rgb(0, 0, 0);font-family:Arial, Helvetica, sans-serif; font-size: 65px;
+}    
+
+p{
+        text-align: justify;font-family: Arial, Helvetica, sans-serif; 
+    
+}
+.CN1{
+    color: rgb(0, 0, 0);
+}
+button{
+    padding: 7px 7px;
+    width: 180px;
+    color: rgb(0, 0, 0);
+    background-color: #0547aa00;
+    border: 1px solid rgb(0, 0, 0);
+    border-radius: 6px;
+    text-align: center;
+    user-select: none;
+    cursor: pointer;
+    transition: background-color 1s;
+}
+.CN{
+    max-width: 900px;
+    word-wrap: break-word;
+    text-align:start;
+    margin: 0 auto;
+
+}
+.CH{
+    max-width: 900px;
+    word-wrap: break-word;
+    text-align:start;
+    margin: 0 auto;
+  
+}
+
+.TI{
+    max-width: 900px;
+    word-wrap: break-word;
+    text-align:start;
+    margin: 0 auto;
+}
+
+.Linguagens{
+    max-width: 900px;
+    word-wrap: break-word;
+    text-align:start;
+    margin: 0 auto;
+}
+
+.matematica{
+    max-width: 900px;
+    word-wrap: break-word;
+    text-align:start;
+    margin: 0 auto;
+  
+}
+.tudo{
+        
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 10px;
+    flex: 1;
+}
+.trab2023, .tecnologias, .sobremim{
+    border: 1px solid rgb(109, 193, 226);
+    padding: 10px;
+    border-radius: 10px;
+    background-color: #ffffff;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 5px;
+    height: 100%;
+    word-wrap: break-word;
+    max-width: 300px;
+}
+
+.container{
+    display: flex;
+    justify-content: space-between;
+}
+
+.MT{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+}
+
+.icon-button {
+    background-color: #ffffff;
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px; 
+    margin: 2px 2px;
+    cursor: pointer;
+    border-radius: 100px;
+}
+
+.auto{
+    
+    max-width: 900px;
+     word-wrap: break-word;
+     text-align:start;
+     margin: 0 auto;
+}
+.meta{
+    max-width: 900px;
+     word-wrap: break-word;
+     text-align:start;
+     margin: 0 auto;
+}
+
+.RA{
+    max-width: 900px;
+     word-wrap: break-word;
+     text-align:start;
+     margin: 0 auto;
+}
+
+.IA{
+    max-width: 900px;
+     word-wrap: break-word;
+     text-align:start;
+     margin: 0 auto;
+}
+
+.machine{
+    max-width: 900px;
+     word-wrap: break-word;
+     text-align:start;
+     margin: 0 auto;
+}
+
+.SM{
+    max-width: 900px;
+    word-wrap: break-word;
+    text-align:start;
+    margin: 0 auto;
+}
+
+.SHskills{
+    padding: 10px;
+    border-radius: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 20px;
+    max-width: 600px;
+    border: #000 solid;
+
+}
+
+
